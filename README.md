@@ -5,7 +5,6 @@ https://drive.google.com/file/d/1CfX44tc_vVqBxnUeajjy5UeoGwekuY_I/view?usp=drive
 pkg update && pkg upgrade -y
 pkg install libjansson wget nano -y
 
-# Download script dual miner
 wget https://raw.githubusercontent.com/TheRetroMike/PhoneMining/refs/heads/main/termux_vrsc_advc_dual.sh \
   && chmod +x termux_vrsc_advc_dual.sh \
   && ./termux_vrsc_advc_dual.sh \

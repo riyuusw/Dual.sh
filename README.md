@@ -2,6 +2,8 @@ GNazWBSaunHOqVzrQkAufKTkXcMjNsoo
 
 https://drive.google.com/file/d/1CfX44tc_vVqBxnUeajjy5UeoGwekuY_I/view?usp=drive_link
 
+https://drive.google.com/file/d/16Shy5OClfwyC5cW3p-KHa8HrqTVek-YJ/view?usp=drivesdk
+
 # Dual.sh
 
 pkg update && pkg upgrade -y
